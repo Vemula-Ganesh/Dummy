@@ -1,7 +1,7 @@
 body{
     height: 100vh;
     background: cover;
-    background-color: black;
+    background-color: rgb(167, 161, 161);
     display: flex;
     justify-content: center;
     /* align-content: center; */
@@ -10,5 +10,5 @@ body{
 h1{
     /* size: 100px; */
     /* height: 100px; */
-   background-color: red; 
+   background-color: rgb(252, 59, 59); 
 }
