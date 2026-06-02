@@ -3,8 +3,7 @@ body{
     background: cover;
     background-color: black;
     display: flex;
-    justify-cont
-    ent: center;
+    justify-content: center;
     /* align-content: center; */
     align-items: center;
 }
